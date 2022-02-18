@@ -1,7 +1,7 @@
 ## Assalomu alaykum va rahmatullohi va barakatuhu Mening Ismim Ahror yoshim 18 da!👋 
 
 
-## -- Mening dasturlashdagi Kun Tartibim haqida qisqacha!
+### -- Mening dasturlashdagi Kun Tartibim haqida qisqacha!
 
 - 🔭 Har tong VS Code da ishlarim!
 - 🌱 Algaritm va dizaynli saytlar qilish!
@@ -9,6 +9,10 @@
 - 🥅 Dasturlashdagi tillarni mustahkamlash va yangi tillarni o'rganish!
 - ⚡ Bo'sh vaqtlarda Grafik Dizaynerlik va video mantajlik bilan shug'urlanish!
 - 😻 Har hafta real preyektlar ustida ishlash!
+
+### -- Men va Jamoyim Haqida Qisqacha ma'lumot!
+
+- Jamoa nomi "CodingOFF" tarkibida 9 ta odam va har xil qobilyat egalari mavjud. Ulardan misol keltirsak Front - Back end developer, Grafik dizayner, Android dasturchilar mavjud. Yosh oralig'i 17+...19 kishini tashki qiladi. O'zim esa Front-end hamda Grafik dizaynerman. Hozirda grafik dizaynerlik bo'yicha logo yan nishonlar hamda iconlar yasiman. Front-end bo'yicha esa turli-xil animatsion middle saytlar ulardan sotuv bo'limi, ro'yxatdan o'tish va h.k.
 
 
 ### Ijtimoiy Tarmoqdagi sahifalarim:
