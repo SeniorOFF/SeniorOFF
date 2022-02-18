@@ -1,7 +1,7 @@
-# Assalomu alaykum va rahmatullohi va barakatuhu Mening Ismim Ahror yoshim 18 da!👋 
+## Assalomu alaykum va rahmatullohi va barakatuhu Mening Ismim Ahror yoshim 18 da!👋 
 
 
-## =Mening dasturlashdagi Kun Tartibim haqida qisqacha!
+## -- Mening dasturlashdagi Kun Tartibim haqida qisqacha!
 
 - 🔭 Har tong VS Code da ishlarim!
 - 🌱 Algaritm va dizaynli saytlar qilish!
@@ -11,7 +11,7 @@
 - 😻 Har hafta real preyektlar ustida ishlash!
 
 
-### Connect with me:
+### Ijtimoiy Tarmoqdagi sahifalarim:
 [![website](./img/youtube-light.svg)](https://youtube.com/https://www.youtube.com/channel/UCxRJjLQuv1W5UuniESRnCPw)
 [![website](./img/youtube-dark.svg)](https://youtube.com/https://www.youtube.com/channel/UCxRJjLQuv1W5UuniESRnCPw)
 &nbsp;&nbsp;
@@ -26,12 +26,12 @@
 
 ### Qobilyatlarim:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](VS code| )
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](HTML5, )
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](CSS3, )
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](Sass, )
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](JavaScript, )
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](React.js)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]()
 
 <br />
 <br />
@@ -45,5 +45,6 @@
 - [Versace saytining to'liq qismini qildim. Kerak bo'lgan tillar faqatgina HTML, CSS tillari batafsil tanishish uchun link :](https://github.com/SeniorOFF/versace)
 - [Nakrutka uchun telegram sayt. Kerak bo'lgan tillar: HTML, CSS, JavaScript, Data Aos, Owl Carousel, Sweet alert. Batafsil tanishish uchun link:](https://github.com/SeniorOFF/Telegram-Members)
 
+<br />
 
 ➡️ [Barcha Postlar:](https://t.me/senioroff)
